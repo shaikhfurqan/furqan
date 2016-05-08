@@ -1,1 +1,3 @@
 # furqan
+**google
+*hotmail
